@@ -4,15 +4,11 @@
 
 <img src="images/MBTI 영화 관련 로고 디자인 copy.png" alt="MBTI Movie Archive Logo" style="width:300px; display:block; margin: 0 auto;" />
 
-<div align="center">
-
 | | |
 |---|---|
 | Student No. | 22212007 |
 | Name | 김경인 |
 | E-mail | [rlagi03@naver.com](mailto:rlagi03@naver.com) |
-
-</div>
 
 ---
 
